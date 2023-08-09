@@ -1,0 +1,9 @@
+.box {
+  border: 2px solid #ccc; /* Border style */
+  padding: 10px; /* Padding around the content */
+  margin: 10px 0; /* Margin to separate from other elements */
+  background-color: #f9f9f9; /* Background color */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Box shadow */
+  width: 20%;
+  height: 200px;
+}
